@@ -1,0 +1,9 @@
+{
+    "name": "vivavelebrity/midtrans_payment",
+    "description": "integration midtrans payment",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "veritrans/veritrans-php": "^1.2"
+    }
+}
